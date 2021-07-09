@@ -1,0 +1,223 @@
+﻿  AudioClip.cpp
+  Character.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\utility(190,1): warning C4244: 'initializing': conversion from '_Ty' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+          and
+          [
+              _Ty2=float
+          ]
+D:\Programming\SDL-Base\SDL-Base\Character.cpp(153): message : see reference to function template instantiation 'std::pair<float,float>::pair<float,int,0>(_Other1 &&,_Other2 &&) noexcept' being compiled
+          with
+          [
+              _Other1=float,
+              _Other2=int
+          ]
+D:\Programming\SDL-Base\SDL-Base\Character.cpp(149): message : see reference to function template instantiation 'std::pair<float,float>::pair<float,int,0>(_Other1 &&,_Other2 &&) noexcept' being compiled
+          with
+          [
+              _Other1=float,
+              _Other2=int
+          ]
+  CharacterKoopa.cpp
+D:\Programming\SDL-Base\SDL-Base\CharacterKoopa.cpp(14,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\CharacterKoopa.cpp(15,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\CharacterKoopa.cpp(69,21): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\CharacterKoopa.cpp(69,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\CharacterKoopa.cpp(69,30): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\CharacterKoopa.cpp(69,30): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\CharacterKoopa.cpp(69,39): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\CharacterKoopa.cpp(69,39): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\CharacterKoopa.cpp(70,60): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\CharacterKoopa.cpp(70,60): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\CharacterKoopa.cpp(70,69): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\CharacterKoopa.cpp(70,69): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  CharacterLuigi.cpp
+D:\Programming\SDL-Base\SDL-Base\CharacterLuigi.cpp(10,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\CharacterLuigi.cpp(11,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\CharacterLuigi.cpp(19,29): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\CharacterLuigi.cpp(19,29): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\CharacterLuigi.cpp(19,49): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\CharacterLuigi.cpp(19,49): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\CharacterLuigi.cpp(19,58): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\CharacterLuigi.cpp(19,58): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\CharacterLuigi.cpp(20,60): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\CharacterLuigi.cpp(20,60): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\CharacterLuigi.cpp(20,69): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\CharacterLuigi.cpp(20,69): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  CharacterMario.cpp
+D:\Programming\SDL-Base\SDL-Base\CharacterMario.cpp(10,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\CharacterMario.cpp(11,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\CharacterMario.cpp(19,29): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\CharacterMario.cpp(19,29): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\CharacterMario.cpp(19,49): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\CharacterMario.cpp(19,49): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\CharacterMario.cpp(19,58): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\CharacterMario.cpp(19,58): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\CharacterMario.cpp(20,60): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\CharacterMario.cpp(20,60): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\CharacterMario.cpp(20,69): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\CharacterMario.cpp(20,69): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Coin.cpp
+D:\Programming\SDL-Base\SDL-Base\Coin.cpp(6,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\Coin.cpp(7,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\Coin.cpp(17,30): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\Coin.cpp(17,30): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\Coin.cpp(17,50): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\Coin.cpp(17,50): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\Coin.cpp(17,59): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\Coin.cpp(17,59): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\Coin.cpp(18,61): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\Coin.cpp(18,61): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\Coin.cpp(18,70): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\Coin.cpp(18,70): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Collisions.cpp
+D:\Programming\SDL-Base\SDL-Base\Collisions.cpp(28,22): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\Collisions.cpp(28,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\Collisions.cpp(28,31): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\Collisions.cpp(28,31): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\Collisions.cpp(28,40): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\Collisions.cpp(28,40): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\Collisions.cpp(28,49): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\Collisions.cpp(28,49): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\Collisions.cpp(29,22): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\Collisions.cpp(29,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\Collisions.cpp(29,31): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\Collisions.cpp(29,31): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\Collisions.cpp(29,40): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\Collisions.cpp(29,40): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\Collisions.cpp(29,49): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\Collisions.cpp(29,49): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  DataParser.cpp
+  Debug.cpp
+  GameManager.cpp
+  GameOver.cpp
+D:\Programming\SDL-Base\SDL-Base\GameOver.cpp(67,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\GameOver.cpp(68,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\GameOver.cpp(69,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\GameOver.cpp(70,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  GameScreen.cpp
+  GameScreenLevel1.cpp
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel1.cpp(82,27): warning C4838: conversion from 'unsigned int' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel1.cpp(82,37): warning C4838: conversion from 'unsigned int' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel1.cpp(95,45): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel1.cpp(95,45): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel1.cpp(95,73): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel1.cpp(95,73): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel1.cpp(95,105): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel1.cpp(95,105): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel1.cpp(95,137): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel1.cpp(95,137): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel1.cpp(105,52): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel1.cpp(105,52): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel1.cpp(105,85): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel1.cpp(105,85): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel1.cpp(105,122): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel1.cpp(105,122): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel1.cpp(105,159): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel1.cpp(105,159): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel1.cpp(116,46): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel1.cpp(116,46): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel1.cpp(116,76): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel1.cpp(116,76): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel1.cpp(116,110): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel1.cpp(116,110): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel1.cpp(116,144): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel1.cpp(116,144): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel1.cpp(126,44): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel1.cpp(126,44): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel1.cpp(126,72): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel1.cpp(126,72): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel1.cpp(126,104): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel1.cpp(126,104): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel1.cpp(126,136): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel1.cpp(126,136): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel1.cpp(136,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  GameScreenLevel2.cpp
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel2.cpp(88,28): warning C4838: conversion from 'unsigned int' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel2.cpp(88,40): warning C4838: conversion from 'unsigned int' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel2.cpp(101,46): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel2.cpp(101,46): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel2.cpp(101,74): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel2.cpp(101,74): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel2.cpp(101,106): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel2.cpp(101,106): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel2.cpp(101,138): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel2.cpp(101,138): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel2.cpp(111,52): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel2.cpp(111,52): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel2.cpp(111,85): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel2.cpp(111,85): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel2.cpp(111,122): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel2.cpp(111,122): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel2.cpp(111,159): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel2.cpp(111,159): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel2.cpp(122,46): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel2.cpp(122,46): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel2.cpp(122,76): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel2.cpp(122,76): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel2.cpp(122,110): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel2.cpp(122,110): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel2.cpp(122,144): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel2.cpp(122,144): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel2.cpp(132,44): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel2.cpp(132,44): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel2.cpp(132,72): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel2.cpp(132,72): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel2.cpp(132,104): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel2.cpp(132,104): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel2.cpp(132,136): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel2.cpp(132,136): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel2.cpp(142,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  GameScreenManager.cpp
+  imgui_impl_sdl.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_sdl.cpp
+  Generating Code...
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel2.cpp(234): warning C4715: 'GameScreenLevel2::SetUpLevel': not all control paths return a value
+D:\Programming\SDL-Base\SDL-Base\GameScreenLevel1.cpp(226): warning C4715: 'GameScreenLevel1::SetUpLevel': not all control paths return a value
+  Compiling...
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  LevelMaps.cpp
+D:\Programming\SDL-Base\SDL-Base\LevelMaps.cpp(4,15): warning C4099: 'Vector2D': type name first seen using 'struct' now seen using 'class'
+D:\Programming\SDL-Base\SDL-Base\Commons.h(6): message : see declaration of 'Vector2D'
+D:\Programming\SDL-Base\SDL-Base\LevelMaps.cpp(36,26): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\LevelMaps.cpp(36,20): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  Main.cpp
+D:\Programming\SDL-Base\SDL-Base\Main.cpp(103,5): warning C4060: switch statement contains no 'case' or 'default' labels
+  PowBlock.cpp
+D:\Programming\SDL-Base\SDL-Base\PowBlock.cpp(14,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\PowBlock.cpp(15,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\PowBlock.cpp(29,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\PowBlock.cpp(30,27): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\PowBlock.cpp(30,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\PowBlock.cpp(30,36): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\PowBlock.cpp(30,36): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\PowBlock.cpp(31,60): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\PowBlock.cpp(31,60): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\PowBlock.cpp(31,69): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\PowBlock.cpp(31,69): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  TextRenderer.cpp
+  Texture2D.cpp
+D:\Programming\SDL-Base\SDL-Base\Texture2D.cpp(46,41): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\Texture2D.cpp(46,41): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\Texture2D.cpp(46,56): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\Programming\SDL-Base\SDL-Base\Texture2D.cpp(46,56): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  TitleScreen.cpp
+D:\Programming\SDL-Base\SDL-Base\TitleScreen.cpp(75,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\TitleScreen.cpp(76,69): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\TitleScreen.cpp(77,69): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\TitleScreen.cpp(80,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  WinScreen.cpp
+D:\Programming\SDL-Base\SDL-Base\WinScreen.cpp(68,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\WinScreen.cpp(69,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\WinScreen.cpp(70,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Programming\SDL-Base\SDL-Base\WinScreen.cpp(71,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+D:\Programming\SDL-Base\SDL-Base\Texture2D.cpp(33): warning C4715: 'Texture2D::LoadFromFile': not all control paths return a value
+  SDL-Base.vcxproj -> D:\Programming\SDL-Base\Debug\SDL-Base.exe
